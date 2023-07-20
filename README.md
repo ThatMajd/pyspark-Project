@@ -1,6 +1,6 @@
 ## Overview
 
-This repository contains a comprehensive data analysis project and a machine learning pipeline designed to handle both static and live data the entire infastructure was built using Pyspark. The project includes insightful data visualizations using graphs and explores various data preprocessing techniques to prepare the data for a Random Forest Model. Additionally, the pipeline enables real-time data processing by applying the model to live streamed data.
+This repository contains a comprehensive data analysis project and a machine learning pipeline designed to handle both static and live data built soley using Pyspark. The project includes insightful data visualizations using graphs and explores various data preprocessing techniques to prepare the data for a Random Forest Model. Additionally, the pipeline enables real-time data processing by applying the model to live streamed data.
 
 ## Data Analysis
 
